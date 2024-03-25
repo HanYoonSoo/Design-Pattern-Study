@@ -11,4 +11,11 @@
 ### 프록시 패턴
 <https://hdbstn3055.tistory.com/56>
 
+### 어댑터 패턴
+<https://hdbstn3055.tistory.com/67>
+
+### 싱글톤 패턴
+<https://hdbstn3055.tistory.com/70>
+
+
 
