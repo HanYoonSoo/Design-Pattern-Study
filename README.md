@@ -17,5 +17,8 @@
 ### 싱글톤 패턴
 <https://hdbstn3055.tistory.com/70>
 
+### 탬플릿 메서드 패턴
+<https://hdbstn3055.tistory.com/73>
+
 
 
