@@ -20,5 +20,5 @@
 ### 탬플릿 메서드 패턴
 <https://hdbstn3055.tistory.com/73>
 
-
-
+### 데코레이터 패턴
+<https://hdbstn3055.tistory.com/77>
