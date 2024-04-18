@@ -22,3 +22,6 @@
 
 ### 데코레이터 패턴
 <https://hdbstn3055.tistory.com/77>
+
+### 팩토리 패턴
+<https://hdbstn3055.tistory.com/79>
